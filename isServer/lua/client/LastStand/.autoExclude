@@ -1,0 +1,17 @@
+Challenge2.png
+OpeningHours.png
+Kingsmouth.png
+.autoExclude
+Challenge1.png
+AStormIsComing.png
+TheDescendingFog.png
+YouHaveOneDay.png
+Studio.png
+WinterIsComing.png
+AReallyCDDAy.png
+*.lck
+*.tmp
+*.log
+*.log.gz
+temp
+logs

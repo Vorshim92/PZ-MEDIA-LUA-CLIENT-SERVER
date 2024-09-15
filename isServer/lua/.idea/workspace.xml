@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="e6f17e72-f06f-4a7b-be6f-77b5595f391a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="C:\Dropbox\Zomboid\workspace\zomboid_dev\zomboid\workdir\media\lua\NPCs\SadisticAIDirector\Events\Looting\EventInvestigateRoom.lua" />
+      <change type="NEW" beforePath="" afterPath="C:\Dropbox\Zomboid\workspace\zomboid_dev\zomboid\workdir\media\lua\NPCs\SadisticAIDirector\Events\GroupInteractions" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NPCs/SadisticAIDirector/MetaSurvivor.lua" />
+      <change type="NEW" beforePath="" afterPath="C:\Dropbox\Zomboid\workspace\zomboid_dev\zomboid\workdir\media\lua\NPCs\SadisticAIDirector\Events\Looting\EventGoOnLootingMission.lua" />
+      <change type="NEW" beforePath="" afterPath="C:\Dropbox\Zomboid\workspace\zomboid_dev\zomboid\workdir\media\lua\NPCs\SadisticAIDirector\Events\GroupInteractions\EventNPCEncounterSafehouse.lua" />
+      <change type="NEW" beforePath="" afterPath="C:\Dropbox\Zomboid\workspace\zomboid_dev\zomboid\workdir\media\lua\NPCs\SadisticAIDirector\Events\CharacterEvents\GroupDynamics\EventChatGetToKnow.lua" />
+      <change type="NEW" beforePath="" afterPath="C:\Dropbox\Zomboid\workspace\zomboid_dev\zomboid\workdir\media\lua\NPCs\SadisticAIDirector\Events\Looting\EventChooseLootingGroup.lua" />
+      <change type="NEW" beforePath="" afterPath="C:\Dropbox\Zomboid\workspace\zomboid_dev\zomboid\workdir\media\lua\NPCs\SadisticAIDirector\MetaCombat" />
+      <change type="NEW" beforePath="" afterPath="C:\Dropbox\Zomboid\workspace\zomboid_dev\zomboid\workdir\media\lua\NPCs\SadisticAIDirector\Events\CharacterEvents" />
+      <change type="NEW" beforePath="" afterPath="C:\Dropbox\Zomboid\workspace\zomboid_dev\zomboid\workdir\media\lua\NPCs\SadisticAIDirector\Events\Looting\EventLooterReturnToSafehouse.lua" />
+      <change type="NEW" beforePath="" afterPath="C:\Dropbox\Zomboid\workspace\zomboid_dev\zomboid\workdir\media\lua\NPCs\SadisticAIDirector\Plots\PlotTakeControlOfGroup.lua" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NPCs/TestThing.lua" />
+      <change type="NEW" beforePath="" afterPath="C:\Dropbox\Zomboid\workspace\zomboid_dev\zomboid\workdir\media\lua\NPCs\SadisticAIDirector\Events\Looting\EventBreachBuilding.lua" />
+      <change type="NEW" beforePath="" afterPath="C:\Dropbox\Zomboid\workspace\zomboid_dev\zomboid\workdir\media\lua\NPCs\SadisticAIDirector\Events\Looting\EventLootRoom.lua" />
+      <change type="NEW" beforePath="" afterPath="C:\Dropbox\Zomboid\workspace\zomboid_dev\zomboid\workdir\media\lua\NPCs\SadisticAIDirector\Events\Looting\EventSplitAttackGroups.lua" />
+      <change type="NEW" beforePath="" afterPath="C:\Dropbox\Zomboid\workspace\zomboid_dev\zomboid\workdir\media\lua\NPCs\SadisticAIDirector\Events\CharacterEvents\GroupDynamics" />
+      <change type="NEW" beforePath="" afterPath="C:\Dropbox\Zomboid\workspace\zomboid_dev\zomboid\workdir\media\lua\NPCs\SadisticAIDirector\Events\Looting\EventGoOnLootingMissionArrive.lua" />
+      <change type="NEW" beforePath="" afterPath="C:\Dropbox\Zomboid\workspace\zomboid_dev\zomboid\workdir\media\lua\NPCs\SadisticAIDirector\Events\Looting\EventReportOnLootingMission.lua" />
+      <change type="NEW" beforePath="" afterPath="C:\Dropbox\Zomboid\workspace\zomboid_dev\zomboid\workdir\media\lua\NPCs\SadisticAIDirector\MetaCombat\MetaCombatSystem.lua" />
+      <change type="NEW" beforePath="" afterPath="C:\Dropbox\Zomboid\workspace\zomboid_dev\zomboid\workdir\media\lua\NPCs\SadisticAIDirector\Events\CharacterEvents\GroupDynamics\EventPlotTakeControl.lua" />
+      <change type="NEW" beforePath="" afterPath="C:\Dropbox\Zomboid\workspace\zomboid_dev\zomboid\workdir\media\lua\NPCs\SadisticAIDirector\Events\CharacterEvents\IdleEvents\EventSitIdle.lua" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Music" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Util/Vector2.lua" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NPCs/SadisticAIDirector/SurvivorSelector.lua" />
+      <change type="NEW" beforePath="" afterPath="C:\Dropbox\Zomboid\workspace\zomboid_dev\zomboid\workdir\media\lua\NPCs\SadisticAIDirector\Events\Looting" />
+      <change type="NEW" beforePath="" afterPath="C:\Dropbox\Zomboid\workspace\zomboid_dev\zomboid\workdir\media\lua\NPCs\SadisticAIDirector\Events\GroupInteractions\EventNPCGroupsJoinForces.lua" />
+      <change type="NEW" beforePath="" afterPath="C:\Dropbox\Zomboid\workspace\zomboid_dev\zomboid\workdir\media\lua\NPCs\SadisticAIDirector\Events\Looting\EventLooterMeetup.lua" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OptionScreens/SandboxOptions.lua" />
+      <change type="NEW" beforePath="" afterPath="C:\Dropbox\Zomboid\workspace\zomboid_dev\zomboid\workdir\media\lua\NPCs\SadisticAIDirector\Events\GroupInteractions\EventNPCEncounterLootBuilding.lua" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Music/MusicChoices.lua" />
+      <change type="NEW" beforePath="" afterPath="C:\Dropbox\Zomboid\workspace\zomboid_dev\zomboid\workdir\media\lua\NPCs\SadisticAIDirector\Events\CharacterEvents\GroupDynamics\EventChatInsult.lua" />
+      <change type="NEW" beforePath="" afterPath="C:\Dropbox\Zomboid\workspace\zomboid_dev\zomboid\workdir\media\lua\NPCs\SadisticAIDirector\Events\CharacterEvents\IdleEvents" />
+      <change type="NEW" beforePath="" afterPath="C:\Dropbox\Zomboid\workspace\zomboid_dev\zomboid\workdir\media\lua\NPCs\SadisticAIDirector\Plots\Plots.lua" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NPCs/SadisticAIDirector/SadisticMusicDirector.lua" />
+      <change type="NEW" beforePath="" afterPath="C:\Dropbox\Zomboid\workspace\zomboid_dev\zomboid\workdir\media\lua\NPCs\SadisticAIDirector\Events\CharacterEvents\GroupDynamics\EventLaunchPlotTakeControlOfGroup.lua" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NPCs/SadisticAIDirector/RelationshipModifiers/Modifiers.lua" />
+      <change type="NEW" beforePath="" afterPath="C:\Dropbox\Zomboid\workspace\zomboid_dev\zomboid\workdir\media\lua\NPCs\SadisticAIDirector\Plots" />
+      <change type="NEW" beforePath="" afterPath="C:\Dropbox\Zomboid\workspace\zomboid_dev\zomboid\workdir\media\lua\NPCs\SadisticAIDirector\Events\CharacterEvents\GroupDynamics\EventChatRecruitForPlot.lua" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/MetaEnum.lua" />
+      <change type="NEW" beforePath="" afterPath="C:\Dropbox\Zomboid\workspace\zomboid_dev\zomboid\workdir\media\lua\NPCs\SadisticAIDirector\Events\GroupInteractions\EventNPCGroupsMeetInBuilding.lua" />
+      <change type="NEW" beforePath="" afterPath="C:\Dropbox\Zomboid\workspace\zomboid_dev\zomboid\workdir\media\lua\NPCs\SadisticAIDirector\Events\Looting\EventFightZombiesLootRoom.lua" />
+      <change type="NEW" beforePath="" afterPath="C:\Dropbox\Zomboid\workspace\zomboid_dev\zomboid\workdir\media\lua\NPCs\SadisticAIDirector\Events\GroupInteractions\EventNPCGroupsFight.lua" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Professions/Professions.lua" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NPCs/ISConversationScript.lua" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NPCs/SadisticAIDirector/RelationshipModifiers" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Professions" />
+      <change type="DELETED" beforePath="C:\workspace\zomboid\workdir\media\lua\NPCs\SadisticAIDirector\Events\EventNPCsMeetingInHouse.lua" afterPath="" />
+      <change type="DELETED" beforePath="C:\workspace\zomboid\workdir\media\lua\NPCs\SadisticAIDirector\Events\EventUseLootAtSafehouse.lua" afterPath="" />
+      <change type="DELETED" beforePath="C:\workspace\zomboid\workdir\media\lua\NPCs\SadisticAIDirector\Events\EventReturnToSafehouse.lua" afterPath="" />
+      <change type="DELETED" beforePath="C:\workspace\zomboid\workdir\media\lua\NPCs\SadisticAIDirector\Events\EventGotoLootBuilding.lua" afterPath="" />
+      <change type="DELETED" beforePath="C:\workspace\zomboid\workdir\media\lua\NPCs\SadisticAIDirector\Events\EventDoReturnToSafehouse.lua" afterPath="" />
+      <change type="DELETED" beforePath="C:\workspace\zomboid\workdir\media\lua\NPCs\SadisticAIDirector\Events\EventZombieAttackSafehouse.lua" afterPath="" />
+      <change type="DELETED" beforePath="C:\workspace\zomboid\workdir\media\lua\NPCs\SadisticAIDirector\Events\EventSeekOutSurvivors.lua" afterPath="" />
+      <change type="DELETED" beforePath="C:\workspace\zomboid\workdir\media\lua\NPCs\SadisticAIDirector\Events\EventGroupSplit.lua" afterPath="" />
+      <change type="DELETED" beforePath="C:\workspace\zomboid\workdir\media\lua\NPCs\SadisticAIDirector\Events\EventLootBuilding.lua" afterPath="" />
+      <change type="DELETED" beforePath="C:\workspace\zomboid\workdir\media\lua\NPCs\SadisticAIDirector\Events\EventZombieAttackLooting.lua" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ISUI/ISContextMenu.lua" afterPath="$PROJECT_DIR$/ISUI/ISContextMenu.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NPCs/UI/CharacterInfoPage.lua" afterPath="$PROJECT_DIR$/NPCs/UI/CharacterInfoPage.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ISUI/ISScrollBar.lua" afterPath="$PROJECT_DIR$/ISUI/ISScrollBar.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NPCs/SadisticAIDirector/MetaSurvivorGroup.lua" afterPath="$PROJECT_DIR$/NPCs/SadisticAIDirector/MetaSurvivorGroup.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TimedActions/ISTimedActionQueue.lua" afterPath="$PROJECT_DIR$/TimedActions/ISTimedActionQueue.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NPCs/FetchQuest.lua" afterPath="$PROJECT_DIR$/NPCs/FetchQuest.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/defines.lua" afterPath="$PROJECT_DIR$/defines.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chat/ChatPanel.lua" afterPath="$PROJECT_DIR$/Chat/ChatPanel.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ISUI/ISInventoryPaneContextMenu.lua" afterPath="$PROJECT_DIR$/ISUI/ISInventoryPaneContextMenu.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Items/ItemPicker.lua" afterPath="$PROJECT_DIR$/Items/ItemPicker.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ISBuildingBlueprintManager.lua" afterPath="$PROJECT_DIR$/ISBuildingBlueprintManager.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Util/LuaList.lua" afterPath="$PROJECT_DIR$/Util/LuaList.lua" />
+      <change type="MODIFICATION" beforePath="C:\Dropbox\Zomboid\workspace\zomboid_dev\zomboid\workdir\media\lua\stormysReload.lua" afterPath="C:\Dropbox\Zomboid\workspace\zomboid_dev\zomboid\workdir\media\lua\stormysReload.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ISUI/ISScrollingListBox.lua" afterPath="$PROJECT_DIR$/ISUI/ISScrollingListBox.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NPCs/NPCHouse.lua" afterPath="$PROJECT_DIR$/NPCs/NPCHouse.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DebugUIs/LuaDebugOutput.lua" afterPath="$PROJECT_DIR$/DebugUIs/LuaDebugOutput.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NPCs/UI/TeamPicker.lua" afterPath="$PROJECT_DIR$/NPCs/UI/TeamPicker.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ISUI/ISInventoryPane.lua" afterPath="$PROJECT_DIR$/ISUI/ISInventoryPane.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DebugUIs/MetaWorldRenderPanel.lua" afterPath="$PROJECT_DIR$/DebugUIs/MetaWorldRenderPanel.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OptionScreens/MainScreen.lua" afterPath="$PROJECT_DIR$/OptionScreens/MainScreen.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Farming/basicFarming.lua" afterPath="$PROJECT_DIR$/Farming/basicFarming.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ISUI/ISComboBox.lua" afterPath="$PROJECT_DIR$/ISUI/ISComboBox.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ISObjectClickHandler.lua" afterPath="$PROJECT_DIR$/ISObjectClickHandler.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ISCoordConversion.lua" afterPath="$PROJECT_DIR$/ISCoordConversion.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Farming/ISUI/ISFarmingWindow.lua" afterPath="$PROJECT_DIR$/Farming/ISUI/ISFarmingWindow.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ISUI/ISCollapsableWindow.lua" afterPath="$PROJECT_DIR$/ISUI/ISCollapsableWindow.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NPCs/MainCreationMethods.lua" afterPath="$PROJECT_DIR$/NPCs/MainCreationMethods.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OptionScreens/MapSelecter.lua" afterPath="$PROJECT_DIR$/OptionScreens/MapSelecter.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TimedActions/WalkToTimedAction.lua" afterPath="$PROJECT_DIR$/TimedActions/WalkToTimedAction.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ISTooltipRenderers/ISInventoryItemTooltip.lua" afterPath="$PROJECT_DIR$/ISTooltipRenderers/ISInventoryItemTooltip.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ISUI/ISLabel.lua" afterPath="$PROJECT_DIR$/ISUI/ISLabel.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TimedActions/ISBaseTimedAction.lua" afterPath="$PROJECT_DIR$/TimedActions/ISBaseTimedAction.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chat/ChatNotLoggedOn.lua" afterPath="$PROJECT_DIR$/Chat/ChatNotLoggedOn.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mapScripts.lua" afterPath="$PROJECT_DIR$/mapScripts.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ISUI/ISButton.lua" afterPath="$PROJECT_DIR$/ISUI/ISButton.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NPCs/SadisticAIDirector/EventSystem.lua" afterPath="$PROJECT_DIR$/NPCs/SadisticAIDirector/EventSystem.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TimedActions/ISOpenContainerTimedAction.lua" afterPath="$PROJECT_DIR$/TimedActions/ISOpenContainerTimedAction.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Util/AdjacentFreeTileFinder.lua" afterPath="$PROJECT_DIR$/Util/AdjacentFreeTileFinder.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ISUI/ISTickBox.lua" afterPath="$PROJECT_DIR$/ISUI/ISTickBox.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DebugUIs/MetaWorldWindow.lua" afterPath="$PROJECT_DIR$/DebugUIs/MetaWorldWindow.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NPCs/SadisticAIDirector/SadisticAIDirector.lua" afterPath="$PROJECT_DIR$/NPCs/SadisticAIDirector/SadisticAIDirector.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ISUI/ISInfoContainer.lua" afterPath="$PROJECT_DIR$/ISUI/ISInfoContainer.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NPCs/UI/TeamOverview.lua" afterPath="$PROJECT_DIR$/NPCs/UI/TeamOverview.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OptionScreens/MainOptions.lua" afterPath="$PROJECT_DIR$/OptionScreens/MainOptions.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TimedActions/ISOpenCloseDoor.lua" afterPath="$PROJECT_DIR$/TimedActions/ISOpenCloseDoor.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ISUI/ISUIElement.lua" afterPath="$PROJECT_DIR$/ISUI/ISUIElement.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ISUI/ISRichTextPanel.lua" afterPath="$PROJECT_DIR$/ISUI/ISRichTextPanel.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ISUI/ISInventoryPage.lua" afterPath="$PROJECT_DIR$/ISUI/ISInventoryPage.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lua.iml" afterPath="$PROJECT_DIR$/lua.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Util/BuildingHelper.lua" afterPath="$PROJECT_DIR$/Util/BuildingHelper.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/timedactionshelper.lua" afterPath="$PROJECT_DIR$/timedactionshelper.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BuildingObjects/ISWoodenDoor.lua" afterPath="$PROJECT_DIR$/BuildingObjects/ISWoodenDoor.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OptionScreens/WorldScreen.lua" afterPath="$PROJECT_DIR$/OptionScreens/WorldScreen.lua" />
+    </list>
+    <ignored path="lua.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="Commander">
+    <leftPanel />
+    <rightPanel />
+    <splitter proportion="0.5" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="lua" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="MainOptions.lua" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OptionScreens/MainOptions.lua">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="0" selection-start="636" selection-end="636" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="11526">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ItemPicker.lua" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Items/ItemPicker.lua">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="96" column="0" selection-start="3529" selection-end="3529" vertical-scroll-proportion="0.49918434" vertical-offset="1326" max-vertical-offset="3978">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ISDemoPopup.lua" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ISUI/ISDemoPopup.lua">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="74" column="8" selection-start="2044" selection-end="2044" vertical-scroll-proportion="0.0" vertical-offset="1258" max-vertical-offset="2108">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SurvivalGuideManager.lua" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SurvivalGuide/SurvivalGuideManager.lua">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="33" column="48" selection-start="1084" selection-end="1143" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="1190">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ISUIElement.lua" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ISUI/ISUIElement.lua">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="828" column="4" selection-start="24359" selection-end="24359" vertical-scroll-proportion="0.0" vertical-offset="14076" max-vertical-offset="19686">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SurvivalGuide_EN.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Translate/EN/SurvivalGuide_EN.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="42" selection-start="4102" selection-end="4112" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="1037">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SurvivalGuideEntries.lua" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SurvivalGuide/SurvivalGuideEntries.lua">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="0" selection-start="1197" selection-end="1197" vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="697">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UI_EN.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Translate/EN/UI_EN.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="34" selection-start="1010" selection-end="1010" vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="2873">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ISInventoryPane.lua" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ISUI/ISInventoryPane.lua">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="4" selection-start="513" selection-end="513" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="24905">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ISInfoWindow.lua" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ISUI/ISInfoWindow.lua">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="113" column="0" selection-start="817" selection-end="3487" vertical-scroll-proportion="0.0" vertical-offset="1921" max-vertical-offset="2023">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/ISObjectClickHandler.lua" />
+        <option value="$PROJECT_DIR$/ISUI/ISInventoryPaneContextMenu.lua" />
+        <option value="$PROJECT_DIR$/NPCs/SadisticAIDirector/SadisticMusicDirector.lua" />
+        <option value="$PROJECT_DIR$/Farming/basicFarming.lua" />
+        <option value="$PROJECT_DIR$/ISUI/ISTextEntryBox.lua" />
+        <option value="$PROJECT_DIR$/Reloading/ISReloadManager.lua" />
+        <option value="$PROJECT_DIR$/ISUI/ISUIElement.lua" />
+        <option value="$PROJECT_DIR$/NPCs/MainCreationMethods.lua" />
+        <option value="$PROJECT_DIR$/OptionScreens/CharacterCreationProfession.lua" />
+        <option value="$PROJECT_DIR$/ISUI/FPS.lua" />
+        <option value="$PROJECT_DIR$/ISUI/ISInventoryPane.lua" />
+        <option value="$PROJECT_DIR$/Translate/EN/UI_EN.txt" />
+        <option value="$PROJECT_DIR$/OptionScreens/MainScreen.lua" />
+        <option value="$PROJECT_DIR$/SurvivalGuide/SurvivalGuideManager.lua" />
+        <option value="$PROJECT_DIR$/ISUI/ISDemoPopup.lua" />
+        <option value="$PROJECT_DIR$/OptionScreens/MainOptions.lua" />
+        <option value="$PROJECT_DIR$/Items/ItemPicker.lua" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lua" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\workspace\zomboid\workdir\media\lua" />
+      <recent name="C:\workspace\zomboid\workdir\media\lua\NPCs\SadisticAIDirector\Events\CharacterEvents" />
+      <recent name="C:\workspace\zomboid\workdir\media\lua\NPCs\SadisticAIDirector\Events\Looting" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin" singleton="true">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="#com.sylvanaar.idea.Lua.run.LuaConfigurationType" factoryName="Lua Script">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="ALTERNATE_INTERPRETER" value="false" />
+      <envs />
+      <module name="lua" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <list size="0" />
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="true" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="true">C:\Users\LEMMYPC\AppData\Roaming\Subversion</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6f17e72-f06f-4a7b-be6f-77b5595f391a" name="Default" comment="" />
+      <created>1355082914301</created>
+      <updated>1355082914301</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3273684" sideWeight="0.5213447" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3997862" sideWeight="0.6707589" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20572917" sideWeight="0.6718576" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.6936737" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Kahlua" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977018" sideWeight="0.6707589" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32741398" sideWeight="0.47865528" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USERS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/OptionScreens/MainScreen.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="800" column="33" selection-start="29150" selection-end="29175" vertical-scroll-proportion="0.0" vertical-offset="13600" max-vertical-offset="14348">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OptionScreens/MainOptions.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="92" column="59" selection-start="2656" selection-end="2656" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="11526">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ISUI/ISDemoPopup.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="74" column="8" selection-start="2044" selection-end="2044" vertical-scroll-proportion="0.0" vertical-offset="1258" max-vertical-offset="2108">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SurvivalGuide/SurvivalGuideManager.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="48" selection-start="1084" selection-end="1143" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="1190">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ISUI/ISUIElement.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="828" column="4" selection-start="24359" selection-end="24359" vertical-scroll-proportion="0.0" vertical-offset="14076" max-vertical-offset="19686">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Translate/EN/SurvivalGuide_EN.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="42" selection-start="4102" selection-end="4112" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="1037">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SurvivalGuide/SurvivalGuideEntries.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="0" selection-start="1197" selection-end="1197" vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="697">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Translate/EN/UI_EN.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="34" selection-start="1010" selection-end="1010" vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="2873">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ISUI/ISInventoryPane.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="4" selection-start="513" selection-end="513" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="24905">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ISUI/ISInfoWindow.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="113" column="0" selection-start="817" selection-end="3487" vertical-scroll-proportion="0.0" vertical-offset="1921" max-vertical-offset="2023">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OptionScreens/CharacterCreationMain.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OptionScreens/CharacterCreationProfession.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="558" column="50" selection-start="22304" selection-end="22304" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NPCs/MainCreationMethods.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="512" column="23" selection-start="34750" selection-end="34750" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keyBinding.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="85" column="22" selection-start="1937" selection-end="1937" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ISUI/FPS.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="30" selection-start="434" selection-end="434" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ISUI/ISInventoryPage.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="159" column="28" selection-start="5120" selection-end="5120" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OptionScreens/MainScreen.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="800" column="33" selection-start="29150" selection-end="29175" vertical-scroll-proportion="0.0" vertical-offset="13600" max-vertical-offset="14348">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OptionScreens/MainOptions.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="0" selection-start="636" selection-end="636" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="11526">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Items/ItemPicker.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="96" column="0" selection-start="3529" selection-end="3529" vertical-scroll-proportion="0.49918434" vertical-offset="1326" max-vertical-offset="3978">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ISUI/ISDemoPopup.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="74" column="8" selection-start="2044" selection-end="2044" vertical-scroll-proportion="0.0" vertical-offset="1258" max-vertical-offset="2108">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SurvivalGuide/SurvivalGuideManager.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="48" selection-start="1084" selection-end="1143" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="1190">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ISUI/ISUIElement.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="828" column="4" selection-start="24359" selection-end="24359" vertical-scroll-proportion="0.0" vertical-offset="14076" max-vertical-offset="19686">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Translate/EN/SurvivalGuide_EN.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="42" selection-start="4102" selection-end="4112" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SurvivalGuide/SurvivalGuideEntries.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="0" selection-start="1197" selection-end="1197" vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="697">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Translate/EN/UI_EN.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="34" selection-start="1010" selection-end="1010" vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="2873">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ISUI/ISInventoryPane.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="4" selection-start="513" selection-end="513" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="24905">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ISUI/ISInfoWindow.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="113" column="0" selection-start="817" selection-end="3487" vertical-scroll-proportion="0.0" vertical-offset="1921" max-vertical-offset="2023">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
